@@ -71,6 +71,6 @@ public class DotComBust{
         DotComBust game = new DotComBust();
         game.setUpGame();
         game.startPlaying();
-		/*test...test again*/
+		/*test...test again...test again 3*/
     }	
 }
